@@ -2,7 +2,6 @@ class HabitsController < ApplicationController
   before_action :set_habit
 
   def show
-    # @habit = Habit.first
   end
 
   def plus
